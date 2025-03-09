@@ -40,10 +40,10 @@ This game is developed in C using the `conio` and `dos` libraries to handle grap
 ## Demo
 Check out the gameplay demo below:
 
-![Brick Breaker Gameplay](demo.mp4)
+![Brick Breaker Gameplay](demo.gif)
 
 <video width="640" height="360" controls>
-  <source src="demo.mp4" type="video/mp4">
+  <source src="demo.gif" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
