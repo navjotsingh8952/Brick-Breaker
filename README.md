@@ -38,7 +38,14 @@ This game is developed in C using the `conio` and `dos` libraries to handle grap
 - Improved physics and collision detection.
 
 ## Demo
-Check out the gameplay demo in the attached `demo of game.mp4` file.
+Check out the gameplay demo below:
+
+![Brick Breaker Gameplay](demo%20of%20game.mp4)
+
+<video width="640" height="360" controls>
+  <source src="demo%20of%20game.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Author
 Developed by **Navjot Singh**. Feel free to contribute or suggest improvements!
